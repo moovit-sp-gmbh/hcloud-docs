@@ -2,7 +2,7 @@
 description: A brief introduction what to expect from helmut.cloud
 ---
 
-# 🔥 Introduction
+# Introduction
 
 Welcome, traveller. You have found your way to helmut.cloud, a brand new product for media professionals. helmut.cloud is revolutionizing the way of interconnecting applications, and it has come to break data isolation and build new workflows beyond an apps original scope.
 
