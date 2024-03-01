@@ -12,5 +12,6 @@
 
 ## helmut.cloud applications
 
-* [High5](helmut.cloud-applications/high5.md)
+* [High5](helmut.cloud-applications/high5/README.md)
+  * [Spaces and space templates](helmut.cloud-applications/high5/spaces-and-space-templates.md)
 * [Fuse](helmut.cloud-applications/fuse.md)

@@ -38,7 +38,7 @@ Before we go on and jump into our workflow, there is something I really need to 
 
 ### Spaces in High5
 
-Spaces organize your single workflow and its variables and configuration. One space is for one workflow.
+Spaces organize your workflows and its variables and configuration. One space can contain multiple events that are part of a workflow.
 
 While there is some kind of birds eye view on all of your workflows in the High5 dashboard, viewing a space magnifies a single workflow and its environment.
 
