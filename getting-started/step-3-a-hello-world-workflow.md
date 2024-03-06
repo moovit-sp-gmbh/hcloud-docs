@@ -1,4 +1,4 @@
-# Step 3: A "Hello World" workflow
+# 🔥 Step 3: A "Hello World" workflow
 
 One of the strong sides of helmut.cloud is collaboration. To make it as easy as possible for users, everything is organized around organizations.
 

@@ -1,4 +1,4 @@
-# Space templates
+# 🔥 Space templates
 
 ## Creating spaces from a template
 
