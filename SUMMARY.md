@@ -17,8 +17,7 @@
 ## High5
 
 * [Spaces in High5](high5/spaces-in-high5/README.md)
-  * [View, create, rename and delete spaces](high5/spaces-in-high5/view-create-rename-and-delete-spaces/README.md)
-    * [🔥 Space templates](high5/spaces-in-high5/view-create-rename-and-delete-spaces/space-templates.md)
-  * [🔥 View a spaces content](high5/spaces-in-high5/view-a-spaces-content/README.md)
-    * [Events and streams](high5/spaces-in-high5/view-a-spaces-content/events-and-streams.md)
-    * [🔥 Space settings](high5/spaces-in-high5/view-a-spaces-content/space-settings.md)
+  * [List, create, rename and delete  spaces](high5/spaces-in-high5/list-create-rename-and-delete-spaces.md)
+* [🔥 View a spaces content](high5/view-a-spaces-content/README.md)
+  * [Events and streams](high5/view-a-spaces-content/events-and-streams.md)
+  * [🔥 Space settings](high5/view-a-spaces-content/space-settings.md)

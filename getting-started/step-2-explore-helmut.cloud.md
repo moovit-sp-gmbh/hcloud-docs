@@ -14,9 +14,11 @@ An organization
 
 One user can be in multiple organizations, or can have a single organization for themself. In fact, since you registered, you already own a "personal one-person-organization".&#x20;
 
+Take a look at the upper right corner. In the very right, you can see your avatar, giving you access to your account settings and amongst other options, also to your organizations. By default, this is an empty list.&#x20;
+
 To work with others, you need to create a new, dedicated organization or join an organization.
 
-In your role as an owner, administrator or manager, you can invite members to helmut.cloud and integrate them in a team. Owners or administrators can set even higher ranking settings like licenses for users or certain defaults like obligatory 2FA or external authorization.&#x20;
+In your role as an owner, administrator or manager, you can invite members to helmut.cloud and integrate them into a team. Owners or administrators can set even higher ranking settings like licenses for users or certain defaults like obligatory 2FA or external authorization.&#x20;
 
 Team members who simply want to join an existing organization can be invited and join a team.
 
