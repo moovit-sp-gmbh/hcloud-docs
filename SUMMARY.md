@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [Case study: A media postproduction](introduction/case-study-a-media-postproduction.md)
 
 ## Getting Started
 
@@ -13,6 +14,19 @@
 ## Changelog
 
 * [🎉 Version 1.0.0](changelog/version-1.0.0.md)
+
+## Personal Account
+
+* [Account settings](personal-account/account-settings/README.md)
+  * [My profile](personal-account/account-settings/my-profile.md)
+  * [Security](personal-account/account-settings/security.md)
+* [Notifications](personal-account/notifications.md)
+* [License (personal account)](personal-account/license-personal-account.md)
+* [Logs](personal-account/logs.md)
+
+## Organizations
+
+* [Page 1](organizations/page-1.md)
 
 ## High5
 
