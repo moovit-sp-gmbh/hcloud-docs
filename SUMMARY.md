@@ -23,13 +23,16 @@
 * [Notifications](personal-account/notifications.md)
 * [License (private organization)](personal-account/license-private-organization.md)
 * [Logs](personal-account/logs.md)
+* [🔥 Delete my account](personal-account/delete-my-account.md)
 
-## Organizations
+## Organizations, users and teams
 
-* [What are organizations in helmut.cloud?](organizations/what-are-organizations-in-helmut.cloud.md)
-* [View my organizations](organizations/view-my-organizations/README.md)
-  * [Being an organizations target](organizations/view-my-organizations/being-an-organizations-target.md)
-* [Choosing an organization to work in](organizations/choosing-an-organization-to-work-in.md)
+* [What are organizations in helmut.cloud?](organizations-users-and-teams/what-are-organizations-in-helmut.cloud.md)
+* [View my organizations](organizations-users-and-teams/view-my-organizations/README.md)
+  * [Being a target](organizations-users-and-teams/view-my-organizations/being-a-target.md)
+* [Choosing an organization to work in](organizations-users-and-teams/choosing-an-organization-to-work-in.md)
+* [Organization settings](organizations-users-and-teams/organization-settings/README.md)
+  * [Members and roles](organizations-users-and-teams/organization-settings/members-and-roles.md)
 
 ## High5
 
