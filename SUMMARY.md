@@ -21,7 +21,7 @@
   * [My profile](personal-account/account-settings/my-profile.md)
   * [Security](personal-account/account-settings/security.md)
 * [Notifications](personal-account/notifications.md)
-* [License (private organization)](personal-account/license-private-organization.md)
+* [🔥 License (private organization)](personal-account/license-private-organization.md)
 * [Logs](personal-account/logs.md)
 * [🔥 Delete my account](personal-account/delete-my-account.md)
 
