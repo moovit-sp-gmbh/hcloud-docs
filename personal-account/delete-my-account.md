@@ -1,4 +1,8 @@
-# 🔥 Delete my account
+# Delete my account
+
+**Note: As of now, there is no delete your account-button. Please write us to get your account deleted.**
+
+
 
 To delete your account, go to your _Account settings > My Profile_ and choose _Delete my account_.
 
