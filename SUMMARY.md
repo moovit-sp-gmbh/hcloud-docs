@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Case study: A media postproduction](introduction/case-study-a-media-postproduction.md)
+* [🔥 Case study: A media postproduction](introduction/case-study-a-media-postproduction.md)
 
 ## Getting Started
 
@@ -25,16 +25,23 @@
 * [Logs](personal-account/logs.md)
 * [Delete my account](personal-account/delete-my-account.md)
 
-## Organizations, users and teams
+## Organizations
 
-* [What are organizations in helmut.cloud?](organizations-users-and-teams/what-are-organizations-in-helmut.cloud.md)
-* [What is a team in helmut.cloud?](organizations-users-and-teams/what-is-a-team-in-helmut.cloud.md)
-* [View my organizations](organizations-users-and-teams/view-my-organizations/README.md)
-  * [Being a target](organizations-users-and-teams/view-my-organizations/being-a-target.md)
-* [Choosing an organization to work in](organizations-users-and-teams/choosing-an-organization-to-work-in.md)
-* [Organization settings](organizations-users-and-teams/organization-settings/README.md)
-  * [Members and roles](organizations-users-and-teams/organization-settings/members-and-roles.md)
-* [Licenses for shared organizations](organizations-users-and-teams/licenses-for-shared-organizations.md)
+* [What are organizations in helmut.cloud?](organizations/what-are-organizations-in-helmut.cloud.md)
+* [View my organizations](organizations/view-my-organizations/README.md)
+  * [Being a target](organizations/view-my-organizations/being-a-target.md)
+* [Choosing an organization to work in](organizations/choosing-an-organization-to-work-in.md)
+* [Organization settings](organizations/organization-settings/README.md)
+  * [Licenses for shared organizations](organizations/organization-settings/licenses-for-shared-organizations.md)
+  * [License](organizations/organization-settings/license.md)
+  * [Logs](organizations/organization-settings/logs.md)
+
+## Members and teams
+
+* [Members and roles](members-and-teams/members-and-roles.md)
+* [Invite members and assign roles](members-and-teams/invite-members-and-assign-roles.md)
+* [What is a team in helmut.cloud?](members-and-teams/what-is-a-team-in-helmut.cloud.md)
+* [Create a team and add members](members-and-teams/create-a-team-and-add-members.md)
 
 ## High5
 

@@ -1,2 +1,0 @@
-# Licenses for shared organizations
-

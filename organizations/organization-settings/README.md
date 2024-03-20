@@ -10,3 +10,4 @@ Here, you can view the organizations
 * license
 * and logs.
 
+To learn how to add and manage members to your org, team them and assign roles, please look at the section [Members and teams](broken-reference).

@@ -4,6 +4,6 @@ description: >-
   how it could benefit from using helmut.cloud.
 ---
 
-# Case study: A media postproduction
+# 🔥 Case study: A media postproduction
 
 Lorem ipsum&#x20;

@@ -6,5 +6,5 @@ Despite the name, an organization is not necessarily depicting your real life co
 
 That is why everyone has to be in an organization to do something in helmut.cloud. By default, you already have a private organization when you start with a fresh account. This "private org" is a safe space for your own ideas - it belongs to you only, and you cannot share anything from your private org with others directly.
 
-If you want to start working with others, a (non-private or) shared organization is mandatory. The amount of users and actions that are possible with this organization depend on your [license](licenses-for-shared-organizations.md).
+If you want to start working with others, a (non-private or) shared organization is mandatory. The amount of users and actions that are possible with this organization depend on your [license](organization-settings/licenses-for-shared-organizations.md).
 
