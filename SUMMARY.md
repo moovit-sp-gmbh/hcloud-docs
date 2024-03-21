@@ -9,7 +9,7 @@
 
 * [Step 1: Create your account](getting-started/step-1-create-your-account.md)
 * [Step 2: Explore helmut.cloud](getting-started/step-2-explore-helmut.cloud.md)
-* [🔥 Step 3: A "Hello World" workflow](getting-started/step-3-a-hello-world-workflow.md)
+* [🔥 Step 3: A "Hello World" tutorial](getting-started/step-3-a-hello-world-tutorial.md)
 
 ## Changelog
 
@@ -20,10 +20,11 @@
 * [Account settings](personal-account/account-settings/README.md)
   * [My profile](personal-account/account-settings/my-profile.md)
   * [Security](personal-account/account-settings/security.md)
-* [Notifications](personal-account/notifications.md)
-* [License (private organization)](personal-account/license-private-organization.md)
-* [Logs](personal-account/logs.md)
-* [Delete my account](personal-account/delete-my-account.md)
+  * [Notifications](personal-account/account-settings/notifications.md)
+  * [License (private organization)](personal-account/account-settings/license-private-organization.md)
+  * [Logs](personal-account/account-settings/logs.md)
+  * [Delete my account](personal-account/account-settings/delete-my-account.md)
+* [Page](personal-account/page.md)
 
 ## Organizations
 

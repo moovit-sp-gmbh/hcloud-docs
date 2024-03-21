@@ -13,3 +13,7 @@ If you want to be sure that all, and I mean ALL sessions with your user / passwo
 If you would like to use helmut.cloud via API or CLI, you can set up a personal access token here or view a list of all existing PATs.
 
 By clicking the button "Create new PAT", you can determine a name to later safely identify the right token for a certain purpose, set an expiry-date and choose what applications and actions can be authorized with the token.
+
+### Edit or delete your PAT
+
+If you want to edit your PAT &#x20;
