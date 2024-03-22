@@ -10,7 +10,7 @@ helmut.cloud brings user-friendly UIs and a set of workflow-specific application
 
 
 
-**The challenge: specialized software and data isolation**
+### The challenge: specialized software and data isolation
 
 We all use specialized applications to fulfill our daily tasks - one for editing, one for media management, one for spreadsheets and another one for your vacation schedule. And while that one website is very good for the process of planning your teams vacation, it is yet another website you subscribed to for the reason of a single task.&#x20;
 
@@ -18,7 +18,7 @@ The initial strength of an application - its specialization - is now a challenge
 
 
 
-**The solution: flexible interfaces, easy configuration and collaboration**
+### **The solution: flexible interfaces, easy configuration and collaboration**
 
 helmut.cloud is about to change that: It offers a user interface with a variety of smart and easily configurable ways to establish a technical connection between applications, share their data, make a workflow out of it and automate the hideous, repeating tasks. It is cloud-based and it will be there when you need it, where you need it.
 
@@ -28,7 +28,7 @@ With Helmut4, we could collect a lot of experience with systems integration and 
 
 
 
-**Who is helmut.cloud for?**
+### Who is helmut.cloud for?
 
 helmut.cloud is made for everyone who needs to break data isolation between apps, automate processes or create new workflows to increase efficiency in daily business. Broadcasters and media professionals, agencies, tourism, producing trades ... every software-based environment is a potential match for helmut.cloud.
 

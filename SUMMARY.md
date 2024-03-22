@@ -3,17 +3,16 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [The key features of helmut.cloud](introduction/the-key-features-of-helmut.cloud.md)
 * [🔥 Case study: A media postproduction](introduction/case-study-a-media-postproduction.md)
 
 ## Getting Started
 
-* [Step 1: Create your account](getting-started/step-1-create-your-account.md)
-* [Step 2: Explore helmut.cloud](getting-started/step-2-explore-helmut.cloud.md)
-* [🔥 Step 3: A "Hello World" tutorial](getting-started/step-3-a-hello-world-tutorial.md)
-
-## Changelog
-
-* [🎉 Version 1.0.0](changelog/version-1.0.0.md)
+* [Step 1: Sign up](getting-started/step-1-sign-up.md)
+* [Step 2: Create an organization](getting-started/step-2-create-an-organization.md)
+* [Step 3: Create a workflow in High5](getting-started/step-3-create-a-workflow-in-high5.md)
+* [Step 4: Install the agent](getting-started/step-4-install-the-agent.md)
+* [🔥 Step 5: Run your first workflow](getting-started/step-5-run-your-first-workflow.md)
 
 ## Personal Account
 
@@ -24,7 +23,6 @@
   * [License (private organization)](personal-account/account-settings/license-private-organization.md)
   * [Logs](personal-account/account-settings/logs.md)
   * [Delete my account](personal-account/account-settings/delete-my-account.md)
-* [Page](personal-account/page.md)
 
 ## Organizations
 
@@ -47,8 +45,13 @@
 ## High5
 
 * [What is High5?](high5/what-is-high5.md)
+* [Stream Designer Studio](high5/stream-designer-studio.md)
 * [Spaces in High5](high5/spaces-in-high5/README.md)
   * [List, create, rename and delete  spaces](high5/spaces-in-high5/list-create-rename-and-delete-spaces.md)
 * [🔥 View a spaces content](high5/view-a-spaces-content/README.md)
   * [Events and streams](high5/view-a-spaces-content/events-and-streams.md)
   * [🔥 Space settings](high5/view-a-spaces-content/space-settings.md)
+
+## Changelog
+
+* [🎉 Version 1.0.0](changelog/version-1.0.0.md)
