@@ -1,4 +1,4 @@
-# Step 3: Create a workflow in High5
+# 🔥 Step 3: Create a workflow in High5
 
 ### Make some space
 
