@@ -14,6 +14,13 @@
 * [Step 4: Install the agent](getting-started/step-4-install-the-agent.md)
 * [🔥 Step 5: Run your first workflow](getting-started/step-5-run-your-first-workflow.md)
 
+## The HCloud agent
+
+* [Install the HCloud agent software](the-hcloud-agent/install-the-hcloud-agent-software.md)
+* [Set a context for the HCloud agent](the-hcloud-agent/set-a-context-for-the-hcloud-agent/README.md)
+  * [MacOS and Windows](the-hcloud-agent/set-a-context-for-the-hcloud-agent/macos-and-windows.md)
+  * [Docker (Linux)](the-hcloud-agent/set-a-context-for-the-hcloud-agent/docker-linux.md)
+
 ## Personal Account
 
 * [Account settings](personal-account/account-settings/README.md)
