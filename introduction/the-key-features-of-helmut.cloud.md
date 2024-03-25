@@ -1,6 +1,10 @@
-# The key features of helmut.cloud
+---
+description: >-
+  To better understand helmut.cloud, it is good to take a look at its key
+  features.
+---
 
-To better understand helmut.cloud, it is good to take a look at its key features.
+# The key features of helmut.cloud
 
 ## Organizations
 
@@ -23,7 +27,7 @@ Fit your organizations to the projects needs and infrastructure - not the other 
 
 ## High5
 
-**High5** is the brain of helmut.cloud. High5 helps you to make connections between applications - no matter what, as long as they support some interface for automation (e.g. webhooks or a Rest API). It also gives you the power to control who can do what in your workflows.
+High5 is the brain of helmut.cloud, or the gearbox in your workflow. High5 helps you to make connections between applications and build the logic to process the data you shared - no matter what. Ideally, your app supports webhooks or REST-API already. But you can also read and parse files or write custom code to work with data that is accessible to you. Stream Designer Studio lets you write your own low-code programs (streams) and makes it possible to adapt to many, many cases.
 
 High5 allows you to
 
@@ -33,25 +37,29 @@ High5 allows you to
 * administrate the agents that execute your workflows for you,
 * and monitor your workflows in a dashboard.
 
-### Stream Designer Studio
+##
+
+## Stream Designer Studio
 
 Stream Designer Studio is a graphical programming environment for low-code programs called streams. It is a part of High5. \
 You can choose between a variety of nodes that represent single actions, conditions or event triggers. Drag them onto your canvas and connect them in the order you need them to be executed. Build conditions or introduce logic into your workflows, working with data from internal or external applications.&#x20;
 
-As a developer, you can even go all in and write your own nodes or code.
+As a developer, you can even go all in and write your own nodes or code. Don't find the interface you need? Write it!
 
 
 
 ## Fuse
 
-The schedule of helmut.cloud. (Every brain needs a schedule, right?) Fuse schedules and times regular workflows in the manner of a cronjob-manager. It introduces a way to do regular tasks in software that is missing this feature. Backups, data syncs, watchdogs... Just plan it, forget about it and never forget to do anything anymore.
+The schedule of helmut.cloud. (Everyone needs a schedule, right?) Fuse schedules and times regular workflows in the manner of a cronjob-manager. It introduces a way to do regular tasks in software that is missing this feature. Backups, data syncs, watchdogs... Just plan it, forget about it and never forget to do anything anymore.&#x20;
+
+`If you can CURL it, you can FUSE it!`
 
 
 
-## The Agent
+## The HCloud Agent
 
-The hand of helmut.cloud. The helmut.cloud agent is an application installed on workstations or clients that eventually execute the workflows of an organization.
+The hand of helmut.cloud. The HCloud agent is an application installed on workstations or clients that eventually executes the workflows scheduled by helmut.cloud.
 
 Therefore, every agent needs to be authorized to act for a certain organization with a valid account or token, and the context in which the agent is running needs to be configured beforehand.
 
-This way it is ensured that an agent only executes workflows that it is assigned to and authorized for.
+In a later stage of helmut.cloud, the agent will be expandable by plugins that you can develop yourself. This way, a bespoke solution for your software sins from the young days of your company is finally in reach.

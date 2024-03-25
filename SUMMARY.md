@@ -10,7 +10,7 @@
 
 * [Step 1: Sign up](getting-started/step-1-sign-up.md)
 * [Step 2: Create an organization](getting-started/step-2-create-an-organization.md)
-* [🔥 Step 3: Create a workflow in High5](getting-started/step-3-create-a-workflow-in-high5.md)
+* [Step 3: Create a workflow in High5](getting-started/step-3-create-a-workflow-in-high5.md)
 * [Step 4: Install the agent](getting-started/step-4-install-the-agent.md)
 * [🔥 Step 5: Run your first workflow](getting-started/step-5-run-your-first-workflow.md)
 

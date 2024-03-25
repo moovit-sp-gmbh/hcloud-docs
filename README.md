@@ -30,7 +30,7 @@ With Helmut4, we could collect a lot of experience with systems integration and 
 
 ### Who is helmut.cloud for?
 
-helmut.cloud is made for everyone who needs to break data isolation between apps, automate processes or create new workflows to increase efficiency in daily business. Broadcasters and media professionals, agencies, tourism, producing trades ... every software-based environment is a potential match for helmut.cloud.
+helmut.cloud is made for everyone who needs to break data isolation between apps, automate processes or create new workflows to increase efficiency in daily business. Broadcasters and media professionals, event agencies, tourism, producing trades ... every software-based environment is a potential match for helmut.cloud.
 
 helmut.cloud is data agnostic. The options how to use helmut.cloud are literally innumerable: You decide what data to use, and how. If you are a technical specialist, an administrator, developer or  systems integrator, you will quickly find the solutions for some of the challenges of your daily business here.
 
