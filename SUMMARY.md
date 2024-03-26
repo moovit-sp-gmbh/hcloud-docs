@@ -16,13 +16,15 @@
 
 ## The HCloud agent
 
-* [Install the HCloud agent software](the-hcloud-agent/install-the-hcloud-agent-software/README.md)
+* [🔥 Install the HCloud agent software](the-hcloud-agent/install-the-hcloud-agent-software/README.md)
   * [MacOS](the-hcloud-agent/install-the-hcloud-agent-software/macos.md)
-  * [Windows](the-hcloud-agent/install-the-hcloud-agent-software/windows.md)
-  * [🔥 Docker](the-hcloud-agent/install-the-hcloud-agent-software/docker.md)
+  * [🔥 Windows](the-hcloud-agent/install-the-hcloud-agent-software/windows.md)
+  * [🔥 Docker](the-hcloud-agent/install-the-hcloud-agent-software/docker/README.md)
+    * [Release notes Docker agent](the-hcloud-agent/install-the-hcloud-agent-software/docker/release-notes-docker-agent.md)
 * [Set a context for the HCloud agent](the-hcloud-agent/set-a-context-for-the-hcloud-agent/README.md)
   * [MacOS and Windows](the-hcloud-agent/set-a-context-for-the-hcloud-agent/macos-and-windows.md)
   * [🔥 Docker (Linux)](the-hcloud-agent/set-a-context-for-the-hcloud-agent/docker-linux.md)
+* [Agent logs](the-hcloud-agent/agent-logs.md)
 
 ## Personal Account
 
