@@ -39,4 +39,6 @@ You can later observe if your webhook accepted the trigger by clicking on the na
 
 <figure><img src="../.gitbook/assets/space_webhooks_log.gif" alt=""><figcaption><p>Make a click your webhook to view the details of the call, like header, body and return</p></figcaption></figure>
 
+Your dashboard tells you wether your stream succeeded or failed. You can successfully trigger a webhook, but have a failing stream when something went sideways.
+
 <figure><img src="../.gitbook/assets/TestStream_High5Dashboard_20240326.png" alt=""><figcaption><p>A look into your spaces dashboard gives you an wider overview of all streams executed</p></figcaption></figure>

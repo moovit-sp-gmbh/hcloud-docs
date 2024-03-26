@@ -1,6 +1,6 @@
-# Step 3: Create a workflow in High5
+# Step 3: Create a workflow
 
-### Make some space
+### Make some space in High5
 
 A space is a good starting point for your workflow. It will allow to manage all the important details about it while maintaining order.
 
