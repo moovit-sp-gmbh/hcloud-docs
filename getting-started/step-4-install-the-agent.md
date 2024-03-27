@@ -8,7 +8,7 @@ Now configure the agent and add a context. The easiest way is to use your own ac
 
 Right-click the H-icon and choose "Configure". A website opens in your browser. By default, no context is defined. To add context, click on "Create context" and log in with your account.
 
-<figure><img src="../.gitbook/assets/TestStream_connect_agent_nocontext_20240326.png" alt=""><figcaption><p>Bring your agent into the right context by logging</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Bring your agent into the right context by logging</p></figcaption></figure>
 
 You are now ready to run your first workflow on your workstation.
 

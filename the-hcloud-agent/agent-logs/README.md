@@ -1,2 +1,2 @@
-# Agent logs
+# 🔥 Agent logs
 
