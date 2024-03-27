@@ -19,12 +19,14 @@
 * [🔥 Install the HCloud agent software](the-hcloud-agent/install-the-hcloud-agent-software/README.md)
   * [MacOS](the-hcloud-agent/install-the-hcloud-agent-software/macos.md)
   * [🔥 Windows](the-hcloud-agent/install-the-hcloud-agent-software/windows.md)
-  * [🔥 Docker](the-hcloud-agent/install-the-hcloud-agent-software/docker/README.md)
-    * [Release notes Docker agent](the-hcloud-agent/install-the-hcloud-agent-software/docker/release-notes-docker-agent.md)
+  * [🔥 Docker](the-hcloud-agent/install-the-hcloud-agent-software/docker.md)
 * [Set a context for the HCloud agent](the-hcloud-agent/set-a-context-for-the-hcloud-agent/README.md)
   * [MacOS and Windows](the-hcloud-agent/set-a-context-for-the-hcloud-agent/macos-and-windows.md)
   * [🔥 Docker (Linux)](the-hcloud-agent/set-a-context-for-the-hcloud-agent/docker-linux.md)
-* [Agent logs](the-hcloud-agent/agent-logs.md)
+* [Agent logs](the-hcloud-agent/agent-logs/README.md)
+  * [Windows](the-hcloud-agent/agent-logs/windows.md)
+  * [MacOS](the-hcloud-agent/agent-logs/macos.md)
+  * [Docker](the-hcloud-agent/agent-logs/docker.md)
 
 ## Personal Account
 
@@ -57,17 +59,19 @@
 ## High5
 
 * [What is High5?](high5/what-is-high5.md)
-* [Stream Designer Studio](high5/stream-designer-studio.md)
 * [Spaces in High5](high5/spaces-in-high5/README.md)
   * [List, create, rename and delete  spaces](high5/spaces-in-high5/list-create-rename-and-delete-spaces.md)
-* [🔥 View a spaces content](high5/view-a-spaces-content/README.md)
-  * [Events and streams](high5/view-a-spaces-content/events-and-streams.md)
-  * [🔥 Space settings](high5/view-a-spaces-content/space-settings.md)
-
-## Stream Designer Studio Docs
-
-* [UI overview](stream-designer-studio-docs/ui-overview.md)
-* [Node inputs and outputs](stream-designer-studio-docs/node-inputs-and-outputs.md)
+  * [Events and streams](high5/spaces-in-high5/events-and-streams.md)
+  * [Space dashboard](high5/spaces-in-high5/space-dashboard.md)
+  * [Agents](high5/spaces-in-high5/agents.md)
+  * [Webhooks](high5/spaces-in-high5/webhooks.md)
+  * [Secrets Store](high5/spaces-in-high5/secrets-store.md)
+  * [User Access](high5/spaces-in-high5/user-access.md)
+  * [Space settings](high5/spaces-in-high5/space-settings.md)
+* [Organization dashboard](high5/organization-dashboard.md)
+* [Stream Designer Studio](high5/stream-designer-studio/README.md)
+  * [UI overview](high5/stream-designer-studio/ui-overview.md)
+  * [Node inputs and outputs](high5/stream-designer-studio/node-inputs-and-outputs.md)
 
 ## Changelog
 

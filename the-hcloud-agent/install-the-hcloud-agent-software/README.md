@@ -1,6 +1,6 @@
 # 🔥 Install the HCloud agent software
 
-Click on your avatar icon in the upper right corner and select "_Download agent_". Choose an installer that will work with your operating system. Curious about the Docker client? [Read on here](docker/).
+Click on your avatar icon in the upper right corner and select "_Download agent_". Choose an installer that will work with your operating system. Curious about the Docker client? [Read on here](docker.md).
 
 After installation, the agent will be running inside your taskbar, identifiable by the HC-symbol. There is no graphical interface coming with it, except a little menu that opens on right-click.
 

@@ -1,4 +1,4 @@
-# 🔥 Space settings
+# Space settings
 
 ## Manage a spaces settings
 
