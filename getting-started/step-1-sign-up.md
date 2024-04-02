@@ -1,4 +1,4 @@
-# Step 1: Create your account
+# Step 1: Sign up
 
 Wether you want to use helmut.cloud for yourself, as member of a team or for your company: The first thing you will always need is your personal account.
 
@@ -10,7 +10,7 @@ Wether you want to use helmut.cloud for yourself, as member of a team or for you
 * Check and confirm your input
 * Verify your e-mail-address
 
-Visit [https://app.helmut.cloud](https://app.helmut.cloud) in your browser and click on "Sign up for free" below the login area.
+Visit [https://app.helmut.cloud/sign-up](https://app.helmut.cloud/sign-up) in your browser and sign up to helmut.cloud.
 
 Please choose a location for your data and operations depending on where you are located. Bear in mind that this does not only have influence on your connection to helmut.clouds servers, but also may be a legal decision about where your data is stored.
 

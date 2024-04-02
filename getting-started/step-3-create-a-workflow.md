@@ -11,7 +11,7 @@ Now your space is listed in High5 and can be entered.
 
 ### Already hooked? Let's do webhooks!
 
-Every workflow needs a starting point. In helmut.cloud, _events_ are used to induce workflows and trigger the programs that we call streams. So every event has a stream assigned that executes whatever logic you programmed it to do.
+Every workflow needs a starting point. In helmut.cloud, _events_ are used to induce workflows and trigger the programs that we call streams. So every event has one or more streams assigned that executes whatever logic you programmed it to do.
 
 If you want an outside source to trigger your workflow, like a cloud service with webhook support or your own server, you could use a webhook with your event.
 
@@ -43,7 +43,7 @@ Drag in on the canvas and click on it. Another sidebar opens up at the right sid
 
 <figure><img src="../.gitbook/assets/TestStream_MacOS Command Runner Action_20240325.png" alt=""><figcaption><p>Writing an HTML file with the MacOS Command Runner Action</p></figcaption></figure>
 
-Choose your favorite shell and echo some HTLM code into a file somewhere.
+Choose your favorite shell and echo some HTML code into a file somewhere.
 
 <pre class="language-bash"><code class="lang-bash"><strong>#!/bin/bash \
 </strong><strong>echo "&#x3C;!doctype html> \
@@ -58,8 +58,8 @@ That is a nice HTML file. We want to open this in our browser. To achieve this, 
 
 Specify your HTLM-files path and connect all "Success" to "Input" connectors of the nodes, starting from left to right in the order of their execution.
 
-Now press save in the upper menu bar with the FloppyDisk icon. (If you do not know what a FloppyDisk looks like: The very left icon saves the stream.)
+Now save and press publish in the upper menu bar with the cloud-and-arrow icon. From now on, your stream is available for execution.
 
 
 
-We are as far as we can get here. Before we can execute this stream and test it, we need to [install and configure the HCloud agent](step-4-install-the-agent.md) on your system. You can leave Stream Designer Studio as it is and come back later.
+We are as far as we can get here. Before we can execute this stream and test it, we need to [install and configure the HCloud agent](step-4-install-the-helmut.cloud-agent.md) on your system. You can leave Stream Designer Studio as it is and come back later.

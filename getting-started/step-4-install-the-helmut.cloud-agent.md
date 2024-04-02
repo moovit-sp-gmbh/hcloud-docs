@@ -1,4 +1,4 @@
-# Step 4: Install the agent
+# Step 4: Install the helmut.cloud Agent
 
 This is no cold war thriller - the helmut.cloud agent is the piece of software that will execute your workflows for you.&#x20;
 
@@ -12,5 +12,5 @@ You are now ready to run your first workflow on your workstation.
 
 
 
-[All the details about installing and configuring the agent can be found here.](../the-hcloud-agent/install-the-hcloud-agent-software/)
+[All the details about installing and configuring the agent can be found here.](../the-hcloud-agent/install-the-helmut.cloud-agent-software/)
 

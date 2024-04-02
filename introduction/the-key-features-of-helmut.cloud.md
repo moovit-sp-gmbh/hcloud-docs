@@ -12,10 +12,10 @@ The heart of helmut.cloud. Its strongest side is its way to work together with o
 
 An organization
 
-* is mandatory to act in helmut.cloud,
-* defines a users permissions and role for using applications inside helmut.cloud,
-* makes it possible to collaborate with members in- or outside of your real-world company or team,
-* and keeps all the workflows, secrets and programs that were created in it.
+* is mandatory to act in helmut.cloud
+* defines a users permissions and role for using applications inside helmut.cloud
+* makes it possible to collaborate with members in- or outside of your real-world company or team
+* keeps all the workflows, secrets and programs that were created in it
 
 One user can be in multiple organizations, or can have a single organization for themself. In fact, since you registered, you already own a "private one-person-organization" - your account.&#x20;
 
@@ -31,11 +31,11 @@ High5 is the brain of helmut.cloud, or the gearbox in your workflow. High5 helps
 
 High5 allows you to
 
-* manage your event triggers and workflows by organizing them in spaces,
-* define variables and secrets that can be used inside a space,
-* orchestrate events and actions graphically within the Stream Designer Studio,
-* administrate the agents that execute your workflows for you,
-* and monitor your workflows in a dashboard.
+* manage your event triggers and workflows by organizing them in spaces
+* define variables and secrets that can be used inside a space
+* orchestrate events and actions graphically within the Stream Designer Studio
+* administrate the agents that execute your workflows for you
+* monitor your workflows in a dashboard
 
 ##
 
@@ -56,9 +56,9 @@ The schedule of helmut.cloud. (Everyone needs a schedule, right?) Fuse schedules
 
 
 
-## The HCloud Agent
+## The helmut.cloud Agent
 
-The hand of helmut.cloud. The HCloud agent is an application installed on workstations or clients that eventually executes the workflows scheduled by helmut.cloud.
+The hand of helmut.cloud. The Agent is an application installed on workstations or devices that eventually executes the workflows scheduled by helmut.cloud.
 
 Therefore, every agent needs to be authorized to act for a certain organization with a valid account or token, and the context in which the agent is running needs to be configured beforehand.
 

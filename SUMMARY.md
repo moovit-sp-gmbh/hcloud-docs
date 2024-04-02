@@ -11,15 +11,15 @@
 * [Step 1: Sign up](getting-started/step-1-sign-up.md)
 * [Step 2: Create an organization](getting-started/step-2-create-an-organization.md)
 * [Step 3: Create a workflow](getting-started/step-3-create-a-workflow.md)
-* [Step 4: Install the agent](getting-started/step-4-install-the-agent.md)
+* [Step 4: Install the helmut.cloud Agent](getting-started/step-4-install-the-helmut.cloud-agent.md)
 * [Step 5: Run your first workflow](getting-started/step-5-run-your-first-workflow.md)
 
 ## The HCloud agent
 
-* [🔥 Install the HCloud agent software](the-hcloud-agent/install-the-hcloud-agent-software/README.md)
-  * [MacOS](the-hcloud-agent/install-the-hcloud-agent-software/macos.md)
-  * [🔥 Windows](the-hcloud-agent/install-the-hcloud-agent-software/windows.md)
-  * [🔥 Docker](the-hcloud-agent/install-the-hcloud-agent-software/docker.md)
+* [Install the helmut.cloud Agent software](the-hcloud-agent/install-the-helmut.cloud-agent-software/README.md)
+  * [MacOS](the-hcloud-agent/install-the-helmut.cloud-agent-software/macos.md)
+  * [Windows](the-hcloud-agent/install-the-helmut.cloud-agent-software/windows.md)
+  * [Docker](the-hcloud-agent/install-the-helmut.cloud-agent-software/docker.md)
 * [Establish a connection with the HCloud agent](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/README.md)
   * [MacOS and Windows](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/macos-and-windows.md)
   * [🔥 Docker (Linux)](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/docker-linux.md)
