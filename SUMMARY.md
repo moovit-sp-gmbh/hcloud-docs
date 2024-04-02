@@ -23,10 +23,10 @@
 * [Establish a connection with the HCloud agent](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/README.md)
   * [MacOS and Windows](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/macos-and-windows.md)
   * [🔥 Docker (Linux)](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/docker-linux.md)
-* [🔥 Agent logs](the-hcloud-agent/agent-logs/README.md)
-  * [Windows](the-hcloud-agent/agent-logs/windows.md)
-  * [MacOS](the-hcloud-agent/agent-logs/macos.md)
-  * [Docker](the-hcloud-agent/agent-logs/docker.md)
+* [HCloud agent logs](the-hcloud-agent/hcloud-agent-logs/README.md)
+  * [Windows and MacOS](the-hcloud-agent/hcloud-agent-logs/windows-and-macos.md)
+  * [Docker](the-hcloud-agent/hcloud-agent-logs/docker.md)
+* [Update the HCloud agent](the-hcloud-agent/update-the-hcloud-agent.md)
 
 ## Personal Account
 
