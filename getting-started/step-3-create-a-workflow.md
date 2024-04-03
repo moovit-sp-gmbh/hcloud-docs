@@ -11,7 +11,7 @@ Now your space is listed in High5 and can be entered.
 
 ### Already hooked? Let's do webhooks!
 
-Every workflow needs a starting point. In helmut.cloud, _events_ are used to induce workflows and trigger the programs that we call streams. So every event has one or more streams assigned that executes whatever logic you programmed it to do.
+Every workflow needs a starting point. In helmut.cloud, _events_ are used to induce workflows and trigger the programs that we call streams. So every event has one or more streams assigned that executes whatever logic you built it to do.
 
 If you want an outside source to trigger your workflow, like a cloud service with webhook support or your own server, you could use a webhook with your event.
 
@@ -27,7 +27,7 @@ To make it easy in this tutorial, we will only use a header with an unencrypted 
 
 Go back to the events from your Playground-space and find your _TestEvent_. To eventually build the workflow logic and automate something, let's add a stream with "_+ Add stream_".
 
-Our "_TestStream_" can be created and then entered by clicking on it. The StreamDesignerStudio will open, allowing you to define a workflow programmed in a graphical user interface.
+Our "_TestStream_" can be created and then entered by clicking on it. The StreamDesignerStudio will open, allowing you to define a workflow built in a graphical user interface.
 
 In this stream, we will build a simple logic: Whenever the webhook is being triggered, a website opens in our workstations webbrowser. The result will look like this:
 

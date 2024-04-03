@@ -37,11 +37,9 @@ High5 allows you to
 * administrate the agents that execute your workflows for you
 * monitor your workflows in a dashboard
 
-##
-
 ## Stream Designer Studio
 
-Stream Designer Studio is a graphical programming environment for low-code programs called streams. It is a part of High5. \
+Stream Designer Studio is a graphical node-based workflow orchestrator with support for low-code. It is a part of High5.\
 You can choose between a variety of nodes that represent single actions, conditions or event triggers. Drag them onto your canvas and connect them in the order you need them to be executed. Build conditions or introduce logic into your workflows, working with data from internal or external applications.&#x20;
 
 As a developer, you can even go all in and write your own nodes or code. Don't find the interface you need? Write it!
