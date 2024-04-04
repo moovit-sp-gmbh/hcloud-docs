@@ -14,19 +14,19 @@
 * [Step 4: Install the helmut.cloud Agent](getting-started/step-4-install-the-helmut.cloud-agent.md)
 * [Step 5: Run your first workflow](getting-started/step-5-run-your-first-workflow.md)
 
-## The HCloud agent
+## The helmut.cloud Agent
 
-* [Install the helmut.cloud Agent software](the-hcloud-agent/install-the-helmut.cloud-agent-software/README.md)
-  * [MacOS](the-hcloud-agent/install-the-helmut.cloud-agent-software/macos.md)
-  * [Windows](the-hcloud-agent/install-the-helmut.cloud-agent-software/windows.md)
-  * [Docker](the-hcloud-agent/install-the-helmut.cloud-agent-software/docker.md)
-* [Establish a connection with the HCloud agent](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/README.md)
-  * [MacOS and Windows](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/macos-and-windows.md)
-  * [🔥 Docker (Linux)](the-hcloud-agent/establish-a-connection-with-the-hcloud-agent/docker-linux.md)
-* [HCloud agent logs](the-hcloud-agent/hcloud-agent-logs/README.md)
-  * [Windows and MacOS](the-hcloud-agent/hcloud-agent-logs/windows-and-macos.md)
-  * [Docker](the-hcloud-agent/hcloud-agent-logs/docker.md)
-* [Update the HCloud agent](the-hcloud-agent/update-the-hcloud-agent.md)
+* [Install the helmut.cloud Agent software](the-helmut.cloud-agent/install-the-helmut.cloud-agent-software/README.md)
+  * [MacOS](the-helmut.cloud-agent/install-the-helmut.cloud-agent-software/macos.md)
+  * [Windows](the-helmut.cloud-agent/install-the-helmut.cloud-agent-software/windows.md)
+  * [Docker](the-helmut.cloud-agent/install-the-helmut.cloud-agent-software/docker.md)
+* [Establish a connection with the helmut.cloud Agent](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/README.md)
+  * [MacOS and Windows](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/macos-and-windows.md)
+  * [🔥 Docker (Linux)](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/docker-linux.md)
+* [helmut.cloud Agent logs](the-helmut.cloud-agent/helmut.cloud-agent-logs/README.md)
+  * [Windows and MacOS](the-helmut.cloud-agent/helmut.cloud-agent-logs/windows-and-macos.md)
+  * [Docker](the-helmut.cloud-agent/helmut.cloud-agent-logs/docker.md)
+* [Update the helmut.cloud Agent](the-helmut.cloud-agent/update-the-helmut.cloud-agent.md)
 
 ## Personal Account
 

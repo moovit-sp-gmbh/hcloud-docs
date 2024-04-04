@@ -9,8 +9,8 @@ Your personal account already is a "one person organization" where you can start
 To start working with others, set up your first organization.
 
 * Click on your avatar-icon in the upper right corner
-* Choose "My organizations"
-* Click on "Create an organization"
+* Choose "_My organizations_"
+* Click on "_Create an organization_"
 * Give it a name that makes sense to you
 
 Gratulations! You are now the owner of a shared organization! From now on, you can create workflows and add members to your organization, depending on your plan and license.

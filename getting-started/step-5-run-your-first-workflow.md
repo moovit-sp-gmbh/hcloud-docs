@@ -2,13 +2,13 @@
 
 ## Back to Stream Designer Studio
 
-Now that your agent is installed and configured, it can be used to execute streams. Change back into the Stream Designer Studio and have a look to the upper right corner. Next to the little cloud symbol, is a tag that informs you if your agent is connected or not. Because we did that just a few moments ago, chances are that it is disconnected.
+Now that your agent is installed and configured, it can be used to execute streams. Change back into the Stream Designer Studio and have a look to the upper right corner. Next to the little cloud symbol, is a tag that informs you if your agent is connected or not. Because we did that just a few moments ago, chances are that it still shows as disconnected.
 
-<figure><img src="../.gitbook/assets/TestStream_ConnectAgent_20240326.png" alt=""><figcaption><p>The HCloud agent connection button in SDS lets you connect an agent with matching context</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TestStream_ConnectAgent_20240326.png" alt=""><figcaption><p>The helmut.cloud agent connection button in SDS lets you connect an agent with matching context</p></figcaption></figure>
 
 Click on the symbol and choose your agent from the list below. Click "_Connect_". The connection will be established.
 
-To test your stream before you use the webhook, you can first save, then publish and finally test it with the buttons in the stream control tool bar on the middle upper edge of the canvas. There is a payload stated when testing. Right now, we do not use it, so you can simply ignore it.
+To test your stream before you use the webhook to trigger it, you can first save, then publish and finally test it with the buttons in the stream control tool bar on the middle upper edge of the canvas. There is a payload stated when testing. Right now, we do not use it, so you can simply ignore it.
 
 <figure><img src="../.gitbook/assets/TestStream_StreamControlToolbar_20240326.png" alt=""><figcaption><p>The stream control toolbar: save - publish - reload - debugger - exchange - snapshot - test</p></figcaption></figure>
 

@@ -43,7 +43,7 @@ Drag in on the canvas and click on it. Another sidebar opens up at the right sid
 
 <figure><img src="../.gitbook/assets/TestStream_MacOS Command Runner Action_20240325.png" alt=""><figcaption><p>Writing an HTML file with the MacOS Command Runner Action</p></figcaption></figure>
 
-Choose your favorite shell and echo some HTML code into a file somewhere.
+Choose your favorite shell and echo some HTML code into a file somewhere accessible to you.
 
 <pre class="language-bash"><code class="lang-bash"><strong>#!/bin/bash \
 </strong><strong>echo "&#x3C;!doctype html> \
@@ -52,7 +52,7 @@ Choose your favorite shell and echo some HTML code into a file somewhere.
 > $HOME/Desktop/helloworld.html
 </code></pre>
 
-That is a nice HTML file. We want to open this in our browser. To achieve this, we could use the shell again, or a predefined action called **FileOpen**. FileOpen will use whatever standard software is defined in your OS to open the given filetype.
+That is a nice HTML file. We want some logic to open this in our browser. To achieve this, we could use the shell again, or even simpler: a predefined action called **FileOpen**. FileOpen will use whatever standard software is defined in your OS to open the given filetype.
 
 <figure><img src="../.gitbook/assets/TestStream_FileOpen_20240325.png" alt=""><figcaption><p>A full filepath to our html-file in the FileOpen node will make this a lot easier for now.</p></figcaption></figure>
 
