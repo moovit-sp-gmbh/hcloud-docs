@@ -47,7 +47,7 @@
 * [Organization settings](organizations/organization-settings/README.md)
   * [Licenses for shared organizations](organizations/organization-settings/licenses-for-shared-organizations.md)
   * [License](organizations/organization-settings/license.md)
-  * [Logs](organizations/organization-settings/logs.md)
+  * [Logs (organization)](organizations/organization-settings/logs-organization.md)
 
 ## Members and teams
 
