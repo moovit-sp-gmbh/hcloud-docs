@@ -10,7 +10,7 @@ The switches next to the streams enable or disable the single stream. In a modul
 
 <figure><img src="../../.gitbook/assets/Events_streamlist_20240411.png" alt=""><figcaption><p>An enabled and a disabled stream inside the event called "TestEvent". The Webhook-button in the upper right provides direct access to the events webhook, or lets you create one.</p></figcaption></figure>
 
-* To add a stream to an event, use the "+ Add Stream" button in the lower left corner of the list
+* To add a stream to an event, use the "_+ Add Stream_" button in the lower left corner of the list
 * To edit a stream, use the pencil-icon and enter StreamDesignerStudio
 * To duplicate a stream, use the paper-sheets icon
 * To delete the stream, use the trash-bin icon

@@ -35,7 +35,7 @@
   * [Security](personal-account/account-settings/security.md)
   * [Notifications](personal-account/account-settings/notifications.md)
   * [License (private organization)](personal-account/account-settings/license-private-organization.md)
-  * [Logs (private org)](personal-account/account-settings/logs-private-org.md)
+  * [Logs (private org)](personal-account/account-settings/logs.md)
   * [Delete my account](personal-account/account-settings/delete-my-account.md)
 
 ## Organizations
@@ -61,7 +61,7 @@
 * [What is High5?](high5/what-is-high5.md)
 * [Spaces in High5](high5/spaces-in-high5/README.md)
   * [List, create, rename and delete  spaces](high5/spaces-in-high5/list-create-rename-and-delete-spaces.md)
-  * [Events](high5/spaces-in-high5/events.md)
+  * [Events](high5/spaces-in-high5/events-and-streams.md)
   * [Space dashboard](high5/spaces-in-high5/space-dashboard.md)
   * [Agents](high5/spaces-in-high5/agents.md)
   * [Webhooks](high5/spaces-in-high5/webhooks.md)
