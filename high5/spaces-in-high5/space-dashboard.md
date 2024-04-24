@@ -1,6 +1,6 @@
 # Space dashboard
 
-The spaces dashboard shows you stream executions that have been happening in this very High5 space.
+The spaces dashboard shows stream executions that have been happening in this very High5 space.
 
 It can
 

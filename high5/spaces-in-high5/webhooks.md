@@ -72,10 +72,19 @@ In case the posting third-party app does not support HMAC, it is possible to use
 
 ## Webhook URL validation
 
-To be continued.
+In case a third-party application requires initial validation of the target webhook URL, it should first send a `GET` request with a query string called `challenge`. helmut.cloud will then respond with an HTTP `200` status code, echoing the value of the `challenge` query string in the response body.
+
+The following HTTP headers will also be included:
+
+Content-Type: `text/plain`
+
+&#x20;X-Content-Type-Options: `nosniff`
 
 
 
 ## Webhook response codes
 
-To be continued.
+Once a webhook is triggered by the third-party application, [helmut.cloud](http://helmut.cloud) will respond to the `POST` request with the following HTTP status codes:
+
+* `204` with an empty body in case of success.
+* `400` in case of a bad request.
