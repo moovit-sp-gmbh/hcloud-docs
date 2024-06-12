@@ -22,7 +22,7 @@
   * [Docker](the-helmut.cloud-agent/install-the-helmut.cloud-agent-software/docker.md)
 * [Establish a connection with the helmut.cloud Agent](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/README.md)
   * [MacOS and Windows](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/macos-and-windows.md)
-  * [🔥 Docker (Linux)](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/docker-linux.md)
+  * [Docker (Linux)](the-helmut.cloud-agent/establish-a-connection-with-the-helmut.cloud-agent/docker-linux.md)
 * [helmut.cloud Agent logs](the-helmut.cloud-agent/helmut.cloud-agent-logs/README.md)
   * [Windows and MacOS](the-helmut.cloud-agent/helmut.cloud-agent-logs/windows-and-macos.md)
   * [Docker](the-helmut.cloud-agent/helmut.cloud-agent-logs/docker.md)
