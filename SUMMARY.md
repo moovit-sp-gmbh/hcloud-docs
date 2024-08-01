@@ -75,4 +75,4 @@
 
 ## Changelog
 
-* [🎉 Version 1.0.0](changelog/version-1.0.0.md)
+* [🎉 August Release](changelog/august-release.md)
