@@ -1,4 +1,6 @@
-# 🎉 August Release
+# 🎉 Changelog
+
+## August Release
 
 ### **helmut.cloud agent:**
 
