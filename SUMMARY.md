@@ -72,6 +72,7 @@
 * [Stream Designer Studio](high5/stream-designer-studio/README.md)
   * [UI overview](high5/stream-designer-studio/ui-overview.md)
   * [Node inputs and outputs](high5/stream-designer-studio/node-inputs-and-outputs.md)
+* [Developing nodes with NodeKit](high5/developing-nodes-with-nodekit.md)
 
 ## Changelog
 
