@@ -1,5 +1,157 @@
 # 🎉 Changelog
 
+## 10-11-2024
+
+### **Wave Engine**
+
+**Bug Fixes:**
+
+* Resolved an issue where wildcards could not be resolved.
+* Corrected access rights for publishing logs.
+* Fixed issues executing certain file and folder nodes on Windows.
+* Improved logic for managing additional node connectors.
+
+**New Features and Enhancements:**
+
+* Added type support in node execution logs.
+* Introduced helper methods for folder creation management.
+* Expanded wildcard support:
+  * `{{node.<nodeId>.input.Inputname}}`
+  * `{{node.<nodeId>.output.outputname}}`
+  * `{{node.<nodeId>.errors}}`
+  * `{{node.<nodeId>.info.*}}`
+  * `{{stream.info.*}}`
+  * `{{agent.info.*}}`
+
+### **Miscellaneous**
+
+**New Features and Enhancements:**
+
+* Added changelogs for Wave Engine, Wave Nodes, Agent Bundle, and Agent.
+
+**Bug Fixes:**
+
+* Admins can no longer invite owners.
+
+### **Frontend**
+
+**Bug Fixes:**
+
+* Improved table filter functionality.
+* Org dropdown now auto-refreshes after creating a new org.
+
+**New Features and Enhancements:**
+
+* Added full support for real-time updates.
+* Introduced a password complexity checker to all password-entry views.
+* Reworked QR Code generation process.
+
+### **Fuse**
+
+**Bug Fixes:**
+
+* Fixed an issue where Fuse was not sending payloads to a High5 webhook URL.
+
+### **Stream Designer Studio (SDS)**
+
+**Bug Fixes:**
+
+* Resolved issues with copying and pasting nodes between stream tabs.
+* Fixed streams containing extended ASCII characters that failed during exchange.
+* Resolved pagination issues in the custom nodes panel.
+* Fixed node inputs not appearing in the debugger when a node fails.
+* Corrected text overflow issues in specific scenarios.
+* Fixed extended ASCII character rendering in the debugger's payload panel.
+* Improved mouse-down events for smoother interactions.
+
+**New Features and Enhancements:**
+
+* Added language support in the extended input window.
+* Enabled stream testing without prior publishing.
+* Redesigned debugging experience with a payload view and info section.
+* Introduced node catalog store and stream tabs.
+* Added Quick Add feature for faster node additions.
+* Implemented a command palette for improved navigation:
+  * Moved test dialog, snapshot dialog, connect agent dialog, settings, and shortcuts to the command palette.
+* Enhanced snapline behavior for nodes and annotation nodes.
+* Introduced confirmation dialog when closing unsaved streams.
+* Added full Markdown support for annotation nodes.
+* Enabled snapshot renaming and disabled deletion for published snapshots.
+* Introduced support for Stream Node Specification v2.
+* Added option to disable animations in SDS.
+* Included font size slider in the settings menu.
+* Improved zoom and pan behavior for trackpads and scroll wheels.
+* Redesigned snackbars for better appearance and positioning.
+* Enhanced UI for renaming nodes.
+
+### **Platform OpenAPI**
+
+**Improvements:**
+
+* Made multiple updates to OpenAPI files.
+
+### **Wave Node Blueprint**
+
+**New Features and Enhancements:**
+
+* Added a sample test folder.
+* Provided extended documentation for helper methods, node specifications, building, and publishing nodes.
+* Added support for `changelog.json` and development releases.
+
+### **Agent**
+
+**Bug Fixes:**
+
+* Multiple fixes for the Windows Agent, including system tray icon issues.
+* Resolved issues with SSL certificate loading.
+* Fixed startup failures on macOS and Windows.
+
+**New Features and Enhancements:**
+
+* Introduced a new launcher for the Windows Agent.
+* Windows installer now creates a desktop icon by default.
+
+**Changes:**
+
+* Signed installers for Windows and macOS.
+
+### **High5**
+
+**Bug Fixes:**
+
+* Multiple fixes to High5 execution logic.
+* Fixed streams being published immediately upon creation.
+* Clicking on an execution now opens the corresponding logs.
+
+**New Features and Enhancements:**
+
+* Added option to set Wave Engine to always use the latest version.
+* Introduced dialog for managing Wave Engine versions.
+* Enhanced webhook security with IP blacklists and whitelists.
+* Added response option for webhooks.
+* Coupled High5 node catalogs with Wave Engines.
+
+### **helmut.cloud Node Catalogs**
+
+**Core Catalog:**
+
+* **New Features:**
+  * Added Python node, Respond to Webhook node, and File Download node.
+  * Included documentation files for all nodes.
+  * Added metadata file to the root of the node catalog.
+* **Improvements:**
+  * Enhanced MacOS Command Runner's handling of return codes.
+
+**Beta Catalogs:**
+
+* Frame.io Catalog
+* Freespace Catalog
+* Telegram Catalog
+* Cloudflare R2 Catalog
+* Hiscale Catalog
+* MongoDB Data API Catalog
+* Jitbit Catalog
+
 ## 02-08-2024
 
 ### **helmut.cloud agent:**
