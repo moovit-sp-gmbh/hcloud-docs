@@ -12,6 +12,7 @@
 * Improved email validation to support addresses like `j.doe+alias123@example-mail.com` for active organizations.
 * Implemented a workflow to invite unregistered users to join an organization.
 * Introduced a new table view component.
+* Added support for OAuth Apps.
 
 **Bug fixes**
 
