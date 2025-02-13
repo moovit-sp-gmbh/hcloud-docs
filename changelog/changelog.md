@@ -1,17 +1,92 @@
 # 🎉 Changelog
 
+## 03-02-2025
+
+### Frontend
+
+**New features and enhancements**
+
+* Added a notification toast when user settings are updated.
+* Added a password-reveal icon for the `currentPassword` field on the account page.
+* Password fields are now cleared automatically after a successful password change.
+* Improved email validation to support addresses like `j.doe+alias123@example-mail.com` for active organizations.
+* Implemented a workflow to invite unregistered users to join an organization.
+* Introduced a new table view component.
+
+**Bug fixes**
+
+* Fixed an issue where `spaceName` was not being resolved when navigating from `space > webhooks` to `home`.
+
+**Changes**
+
+* Removed filtering for the creator field.
+
+### Stream Designer Studio
+
+**New features and enhancements**
+
+* Added a **Quick Add Node** component.
+* Replaced the string input field in the SDS menu with a text area.
+* Introduced a **wildcard panel**.
+* Added a new `STRING_PASSWORD` input field.
+* Added functionality to persist stream tabs even after a browser tab is reloaded.
+* Improved navigation experience on the canvas.
+* Improved the look of stream tabs.
+
+**Bug Fixes**
+
+* Fixed a bug where toggling the select button on one node catalog card incorrectly affected all toggle buttons.
+* Fixed layout issues with logs, information, payload, and performance sections in the SDS debugger.
+* Fixed an issue where `STRING_SELECT` inputs displayed the label instead of the value..
+* Fixed an issue where the rename snapshot icon was missing when hovering over a snapshot card.
+
+### High5
+
+**Bug fixes**
+
+* Fixed an issue where extra white spaces in payload values were being removed incorrectly.
+* Fixed an issue where High5 failed to check the minimum engine version before executing a stream.
+* Fixed an issue where webhook logs displayed incorrect source IP addresses.
+
+### Wave engine
+
+**New features and enhancements**
+
+* Added **color and node type** to `nodeResult`.
+* Implemented the initial support for **stream debugging**.
+* Improved **logging reliability**, including a mechanism to **report crashes when regular logging fails**.
+* Enhanced logging with:
+  * A `logs` property in `nodeResult`.
+  * A new `addNodeLog()` helper method.
+  * Support for the `logs` wildcard.
+
+### Agent
+
+**New features and enhancements**
+
+* Improved how the agent **handles connection failures**.
+* Implemented the initial support for **stream debugging**.
+* Added a **reconnection mechanism** in `ContextManager`.
+* Added an **uninstaller** to clean up the `.hcloud` directory.
+* Introduced **new endpoints to get and set bundle versions**.
+
+**Bug Fixes**
+
+* Fixed issues with **bundle version headers**.
+* Fixed an issue where the **initial context setup** was unnecessarily delayed.
+
 ## 10-11-2024
 
-### **Wave Engine**
+### **Wave engine**
 
-**Bug Fixes:**
+**Bug Fixes**
 
 * Resolved an issue where wildcards could not be resolved.
 * Corrected access rights for publishing logs.
 * Fixed issues executing certain file and folder nodes on Windows.
 * Improved logic for managing additional node connectors.
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Added type support in node execution logs.
 * Introduced helper methods for folder creation management.
@@ -25,22 +100,22 @@
 
 ### **Miscellaneous**
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Added changelogs for Wave Engine, Wave Nodes, Agent Bundle, and Agent.
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Admins can no longer invite owners.
 
 ### **Frontend**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Improved table filter functionality.
 * Org dropdown now auto-refreshes after creating a new org.
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Added full support for real-time updates.
 * Introduced a password complexity checker to all password-entry views.
@@ -48,13 +123,13 @@
 
 ### **Fuse**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Fixed an issue where Fuse was not sending payloads to a High5 webhook URL.
 
 ### **Stream Designer Studio (SDS)**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Resolved issues with copying and pasting nodes between stream tabs.
 * Fixed streams containing extended ASCII characters that failed during exchange.
@@ -64,7 +139,7 @@
 * Fixed extended ASCII character rendering in the debugger's payload panel.
 * Improved mouse-down events for smoother interactions.
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Added language support in the extended input window.
 * Enabled stream testing without prior publishing.
@@ -86,13 +161,13 @@
 
 ### **Platform OpenAPI**
 
-**Improvements:**
+**Improvements**
 
 * Made multiple updates to OpenAPI files.
 
-### **Wave Node Blueprint**
+### **Wave node blueprint**
 
-**New Features and Enhancements:**
+**New eeatures and enhancements**
 
 * Added a sample test folder.
 * Provided extended documentation for helper methods, node specifications, building, and publishing nodes.
@@ -100,30 +175,30 @@
 
 ### **Agent**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Multiple fixes for the Windows Agent, including system tray icon issues.
 * Resolved issues with SSL certificate loading.
 * Fixed startup failures on macOS and Windows.
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Introduced a new launcher for the Windows Agent.
 * Windows installer now creates a desktop icon by default.
 
-**Changes:**
+**Changes**
 
 * Signed installers for Windows and macOS.
 
 ### **High5**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Multiple fixes to High5 execution logic.
 * Fixed streams being published immediately upon creation.
 * Clicking on an execution now opens the corresponding logs.
 
-**New Features and Enhancements:**
+**New features and enhancements**
 
 * Added option to set Wave Engine to always use the latest version.
 * Introduced dialog for managing Wave Engine versions.
@@ -133,16 +208,16 @@
 
 ### **helmut.cloud Node Catalogs**
 
-**Core Catalog:**
+**Core catalog**
 
-* **New Features:**
+* **New features**
   * Added Python node, Respond to Webhook node, and File Download node.
   * Included documentation files for all nodes.
   * Added metadata file to the root of the node catalog.
-* **Improvements:**
+* **Improvements**
   * Enhanced MacOS Command Runner's handling of return codes.
 
-**Beta Catalogs:**
+**Beta Catalogs**
 
 * Frame.io Catalog
 * Freespace Catalog
@@ -154,9 +229,9 @@
 
 ## 02-08-2024
 
-### **helmut.cloud agent:**
+### **helmut.cloud agent**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Fixed an issue where the agent threw a "reader closed SyntaxError: Unexpected end of JSON input" at startup.
 * Fixed the signing process for the macOS installer.
@@ -173,7 +248,7 @@
 * Fixed the issue with disabling the agent connection.
 * Resolved an issue where accessing `http://localhost:6968/api/agent/v1/version` returned "unknown" in a Docker container.
 
-**Improvements:**
+**Improvements**
 
 * Updated the agent's ping interval to the backend to 10 seconds.
 * Improve the reliability of the agent's ContextManager.
@@ -181,22 +256,22 @@
 * Extended the status bar menu.
 * Implemented automatic reconnection logic in case of connection drops.
 
-**Changes:**
+**Changes**
 
 * Renamed the agent binary from "hcloud agent" to "helmut cloud agent."
 * Updated the application name from "HCloud" to "helmut cloud agent."
 * Updated icons for the hcloud agent.
 
-### &#x20;**helmut.cloud backend:**
+### &#x20;**helmut.cloud backend**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Fixed an issue preventing the agent from registering with the mothership in certain cases.
 * Fixed a problem where license updates were not working correctly for private organizations.
 * Addressed a database error that occurred when attempting to create a webhook without specifying a target.\
 
 
-**Improvements:**
+**Improvements**
 
 * Updated the OpenAPI documentation.
 * Set wave engine dev images to be skipped by default when creating a space.
@@ -205,14 +280,14 @@
 
 
 
-### **helmut.cloud frontend:**
+### **helmut.cloud frontend**
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Fixed the icon used for "Win32" OS on the agent dashboard.\
 
 
-**New Features and enhancements:**
+**New features and enhancements**
 
 * Added support for signing up and logging in using Microsoft, Google, GitHub, and Discord.
 * Added a description field in the new secret dialog.
@@ -222,14 +297,14 @@
 * Displayed TOTP during personal access token creation/update when 2FA is enabled.
 * Introduced a password complexity checker in the sign-up form.
 
-### **helmut.cloud stream designer studio:**
+### **helmut.cloud Stream Designer Studio:**
 
 **Bug Fixes:**
 
 * Fixed an issue where pressing the 'delete' key after selecting text in an input field would delete the selected node.\
 
 
-**New Features and enhancements:**
+**New features and enhancements**
 
 * Made multiple improvements to the functionality of the annotation node.
 * Renamed the unconnected fail outputs to "global fail" when the trigger node global fail connector is connected to a node.
@@ -246,18 +321,18 @@
 
 
 
-### helmut.cloud wave engine:
+### helmut.cloud Wave engine
 
-**Bug Fixes:**
+**Bug fixes**
 
 * Fixed an infinite loop within the wildcard resolver.
 * Fixed issues with the Node Catalogue on Windows.
 
 
 
-### helmut.cloud wave node catalog:
+### helmut.cloud Wave Node Catalog
 
-**New Features and enhancements:**
+**New features and enhancements**
 
 * Decoupled the Wave Engine from the Wave Node Catalog.
 * Implemented contract-based versioning for the wave node specifications.
