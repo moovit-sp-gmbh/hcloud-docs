@@ -25,7 +25,7 @@
 
 **New features and enhancements**
 
-* Added a **Quick Add Node** component.
+* Enhanced the **Quick Add Node** component.
 * Replaced the string input field in the SDS menu with a text area.
 * Introduced a **wildcard panel**.
 * Added a new `STRING_PASSWORD` input field.
