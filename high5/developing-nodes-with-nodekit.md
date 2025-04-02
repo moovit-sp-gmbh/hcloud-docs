@@ -104,11 +104,11 @@ Once you’re happy with your code, just follow these steps:\
 
 Found a bug or just want to step through your code? We've got you covered!
 
-* Start by opening a JavaScript Debug Terminal in VSCode.
-* If the helmut.cloud agent is running, stop it first, then run `npm run debug` to launch it in debug mode.
-* Then, run npm run link to link your [helmut.cloud](http://helmut.cloud) agent to your local node file path.
-* Set one or more breakpoints in your code where you want execution to pause.
-* Execute the stream, and the debugger will stop at your breakpoints, allowing you to inspect and step through your node code.
+1. Start by opening a JavaScript Debug Terminal in VSCode.
+2. If the helmut.cloud agent is running, stop it first, then run `npm run debug` to launch it in debug mode.
+3. Then, run npm run link to link your [helmut.cloud](http://helmut.cloud) agent to your local node file path.
+4. Set one or more breakpoints in your code where you want execution to pause.
+5. Execute the stream, and the debugger will stop at your breakpoints, allowing you to inspect and step through your node code.
 
 ### 5. Configure the s3 storage:
 
