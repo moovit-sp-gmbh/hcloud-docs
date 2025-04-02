@@ -85,8 +85,14 @@ export default new Catalog(
 
 ### 3. Test your node:
 
-1. Testing your nodes couldn’t be easier! No need to publish the node to test it pretty amazing, right? 😎 Once you’re happy with your code, open a terminal in VSCode and run: `npm run link` . This command will automatically link your [helmut.cloud](http://helmut.cloud) agent to the file path where your node lives on your local machine.
-2. Finally, run: `npm run spec -- <name-of-your-node>` . This command will generate and output the specification for your node
+Testing your nodes couldn’t be easier, and the best part? You don’t even need to publish them first. Pretty awesome, right? 😎\
+\
+Once you’re happy with your code, just follow these steps:\
+
+
+1. Open a terminal in VSCode and run: `npm i`
+2. Next, link your node to the helmut.cloud agent by running:: `npm run link` . This command automatically links the helmut.cloud agent to the local file path where your node code lives on your local machine.
+3. Finally, generate the specification for your node by running:: `npm run spec -- <name-of-your-node>` . This will output the full spec for your node directly in the terminal.
 
 <figure><img src="https://t2570196.p.clickup-attachments.com/t2570196/9f411943-f549-4823-822b-d1064ff2e915/Screenshot%202024-09-06%20at%2023.12.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -99,7 +105,7 @@ export default new Catalog(
 Found a bug or just want to step through your code? We've got you covered!
 
 * Start by opening a JavaScript Debug Terminal in VSCode.
-* Run `npm run debug` to launch your [helmut.cloud](http://helmut.cloud) agent in debug mode.
+* If the helmut.cloud agent is running, stop it first, then run `npm run debug` to launch it in debug mode.
 * Then, run npm run link to link your [helmut.cloud](http://helmut.cloud) agent to your local node file path.
 * Set one or more breakpoints in your code where you want execution to pause.
 * Execute the stream, and the debugger will stop at your breakpoints, allowing you to inspect and step through your node code.
