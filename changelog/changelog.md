@@ -1,5 +1,75 @@
 # 🎉 Changelog
 
+## 04-06-2025
+
+### Frontend
+
+**New features and enhancements**
+
+* Added support for agent accounts.
+
+### Stream Designer Studio:
+
+**New features and enhancements**
+
+* Added support for delta saving.
+* Introduced real-time stream debugging capabilities.
+* Added stream replay functionality.
+* Extended the command palette with the ability to:
+  * Import from `curl`
+  * Import from Python and JavaScript
+  * Import node specifications
+* Added the ability to upgrade or downgrade nodes.
+* Fixed multiple issues in the custom nodes implementation
+* Added the option to copy text from the UI using the copy shortcut key.
+* SDS now automatically scales based on the host resolution.
+* Extended the number of supported syntax-highlighted languages in the extended input field.
+* Introduced a new performance view in the stream debugger.
+* Fixed an issue with catalog imports from external sources (CARS).
+
+**Bug fixes**
+
+* Fixed a formatting issue in the node panel’s release notes section.
+* Fixed a formatting issue in the node panel’s release notes section.
+
+### High5
+
+**New features and enhancements**
+
+*   Added the option to cancel a running stream.
+
+    > _Note: Cancel behavior depends on whether the running node supports cancellation logic._
+* Added support for agent pools.
+* Updated the webhook target input to a dropdown, making it easier to select predefined targets
+* Webhook logs now retain the full request body (up to 2 MB).
+* Added the option to configure a space to show development versions of the Wave Engine and node catalog.
+
+### Wave engine
+
+**New features and enhancements**
+
+* Added support for stream breakpoints.
+* Extended the list of available wildcards.
+* Improved handling of JSON keys containing the `"` character.
+* Improved the log callback mechanism in environments with high jitter or latency.
+
+### Agent
+
+**New features and enhancements**
+
+* The Agent now loads user environment variables by default.
+* Reworked how the Agent reports local system information to the hcloud Mothership.
+* Blocked the ability to spawn multiple Agent instances on the same machine.
+* Updated the UI to support logging in with an agent account.
+* Optimized the Agent bundle size.
+
+**Bug fixes**
+
+* Fixed a reconnection issue after the computer has been idle for some time.
+* Fixed an issue where Monday DB encryption would break when switching from debug to normal mode on ARM-based Macs.
+
+
+
 ## 13-02-2025
 
 ### Frontend
