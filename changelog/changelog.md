@@ -20,17 +20,17 @@
   * Import from Python and JavaScript
   * Import node specifications
 * Added the ability to upgrade or downgrade nodes.
-* Fixed multiple issues in the custom nodes implementation
 * Added the option to copy text from the UI using the copy shortcut key.
 * SDS now automatically scales based on the host resolution.
 * Extended the number of supported syntax-highlighted languages in the extended input field.
 * Introduced a new performance view in the stream debugger.
-* Fixed an issue with catalog imports from external sources (CARS).
 
 **Bug fixes**
 
 * Fixed a formatting issue in the node panel’s release notes section.
 * Fixed a formatting issue in the node panel’s release notes section.
+* Fixed an issue with catalog imports from external sources (CORS).
+* Fixed multiple issues in the custom nodes implementation
 
 ### High5
 
