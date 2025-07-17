@@ -96,9 +96,13 @@ Once you’re happy with your code, just follow these steps:\
 
 <figure><img src="https://t2570196.p.clickup-attachments.com/t2570196/9f411943-f549-4823-822b-d1064ff2e915/Screenshot%202024-09-06%20at%2023.12.47.png" alt=""><figcaption></figcaption></figure>
 
-3. Copy the JSON output, hop over to the Stream Designer Studio, and drop the spec into the search bar of the node panel.
+3. Copy the JSON output, hop over to the Stream Designer Studio. Press <kbd>Ctrl + K</kbd> (Windows) or <kbd>Cmd + K</kbd> (Mac) to bring up the command palette. Type ‘_**Import node specification**_’ into the search bar, select the option, and press <kbd>Return</kbd> to open it.
 
-<figure><img src="https://t2570196.p.clickup-attachments.com/t2570196/e1e9068b-b832-45e1-8826-1ecb4d426239/Screenshot%202024-09-06%20at%2014.11.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2025-07-17 at 09.53.26.png" alt=""><figcaption></figcaption></figure>
+
+4. Paste the JSON into the input field of the '_**Import dev node specification**_' window and press <kbd>Return</kbd>. The node will be added to your canvas, ready for testing.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-07-17 at 09.53.47.png" alt=""><figcaption></figcaption></figure>
 
 ### 4 Debugging your node's code:
 
@@ -106,7 +110,7 @@ Found a bug or just want to step through your code? We've got you covered!
 
 1. Start by opening a JavaScript Debug Terminal in VSCode.
 2. If the helmut.cloud agent is running, stop it first, then run `npm run debug` to launch it in debug mode.
-3. Then, run npm run link to link your [helmut.cloud](http://helmut.cloud) agent to your local node file path.
+3. Then, run <kbd>npm run link</kbd> to link your [helmut.cloud](http://helmut.cloud) agent to your local node file path.
 4. Set one or more breakpoints in your code where you want execution to pause.
 5. Execute the stream, and the debugger will stop at your breakpoints, allowing you to inspect and step through your node code.
 

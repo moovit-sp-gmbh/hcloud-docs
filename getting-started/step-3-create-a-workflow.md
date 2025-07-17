@@ -5,7 +5,7 @@
 A space is a good starting point for your workflow. It will allow to manage all the important details about it while maintaining order.
 
 * Go to High5 - Spaces and click on "_Create Space_"
-* Give it a name that makes sense to you (like '_Playground_') and click "C_reate_"
+* Give it a name that makes sense to you (like '_Playground_') and click "&#x43;_&#x72;eate_"
 
 Now your space is listed in High5 and can be entered.
 
