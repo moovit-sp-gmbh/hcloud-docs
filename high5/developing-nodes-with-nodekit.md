@@ -16,7 +16,7 @@ NodeKit simplifies the process of building, testing, and publishing your node ca
 
 * A GitHub account
 * A [helmut.cloud](http://helmut.cloud/) account
-* The [helmut.cloud](http://helmut.cloud/) agent version 1.2.0 installed and running
+* The [helmut.cloud](http://helmut.cloud/) agent version 1.2.0 or newer installed and running
 
 #### Recommendations:
 
