@@ -1,5 +1,90 @@
 # 🎉 Changelog
 
+## 24-11-2025
+
+### Wave Engine
+
+**New features and enhancements**
+
+* Updated hcloud-sdk to version 18.0.0
+* Updated Node.js runtime to version 24.11.1
+
+## 20-11-2025
+
+### Cosmo
+
+**New features and enhancements**
+
+* Improved realtime refresh reliability
+* Made search case-insensitive
+* Added the option for share members to upload assets into the shared folder
+
+**Bug fixes**
+
+* Fixed an issue where the move-folder dialog showed the source folder as a destination
+* Fixed an issue where external users could not be mentioned on the asset details page
+* Fixed an issue where asset activity was not visible for non-org admins and owners
+* Fixed an issue where realtime updates were not available for private organizations
+* Fixed multiple issues with bulk asset move
+* Fixed an issue where admins could not see the content of a share
+
+### IdP
+
+**Bug fixes**
+
+* Fixed an issue where the registration process for unregistered users could fail
+
+### SDS
+
+**New features and enhancements**
+
+* Reworked the debugger and stream palette to show the agent account’s name instead of its ID
+* Improved multi-selection behavior for nodes
+
+## 19-11-2025
+
+### Agent Bundle
+
+**Bug fixes**
+
+* Fixed an issue where the agent frontend was not loading the CSS correctly
+
+## 03-11-2025
+
+### Cosmo
+
+**New features and enhancements**
+
+* Initial release of the production collaboration platform&#x20;
+
+### Fuse
+
+* Deprecated Fuse as a standalone module. Its functionality will be migrated into High5
+
+### High5
+
+**New features and enhancements**
+
+* Improved the logic used to download the latest Wave Engine version
+
+**Bug fixes**
+
+* Fixed an issue where stream execution logs were not being deleted according to the defined rules
+
+### SDS
+
+**Bug fixes**
+
+* Fixed an issue where Cmd+C and Ctrl+C did not copy the selected text
+* Fixed an issue where renaming a node on the canvas could prevent further editing
+* Fixed sorting order in the code editor
+
+### IdP
+
+**Bug fixes**
+
+• Fixed an issue where deleting a user from an organization did not remove the user from the database
+
 ## 04-06-2025
 
 ### Frontend
@@ -8,7 +93,7 @@
 
 * Added support for agent accounts.
 
-### Stream Designer Studio:
+### Stream Designer Studio
 
 **New features and enhancements**
 
@@ -339,8 +424,7 @@
 
 * Fixed an issue preventing the agent from registering with the mothership in certain cases.
 * Fixed a problem where license updates were not working correctly for private organizations.
-* Addressed a database error that occurred when attempting to create a webhook without specifying a target.\
-
+* Addressed a database error that occurred when attempting to create a webhook without specifying a target.<br>
 
 **Improvements**
 
@@ -355,8 +439,7 @@
 
 **Bug fixes**
 
-* Fixed the icon used for "Win32" OS on the agent dashboard.\
-
+* Fixed the icon used for "Win32" OS on the agent dashboard.<br>
 
 **New features and enhancements**
 
@@ -372,8 +455,7 @@
 
 **Bug Fixes:**
 
-* Fixed an issue where pressing the 'delete' key after selecting text in an input field would delete the selected node.\
-
+* Fixed an issue where pressing the 'delete' key after selecting text in an input field would delete the selected node.<br>
 
 **New features and enhancements**
 
