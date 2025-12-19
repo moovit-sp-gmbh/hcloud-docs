@@ -1,5 +1,50 @@
 # 🎉 Changelog
 
+## 18-12-2025
+
+### Cosmo
+
+**Bug fixes**
+
+* Fixed an issue where emails sent to external users arrived without displaying the content
+* Fixed an issue where sharing a folder could fail in certain scenarios
+* Fixed an issue where moving a folder did not refresh the UI correctly
+* Fixed an issue where external users had incorrect permissions on assets
+* Fixed an issue where tag behavior in Spaces could lead to errors
+* Fixed an issue where a link in the email could lead to an error page
+* Fixed an issue where adding unregistered users to a share was not accepted
+* Fixed an issue where viewers could receive permissions for all namespaces when added to a share
+* Fixed an issue where uploading assets into a folder only triggered the “asset added” event
+* Fixed an issue where deleting shares did not work as expected
+* Fixed an issue where comment drawings could shift position when resizing the player window
+* Fixed an issue where annotations could be inherited into subsequent comments
+* Fixed an issue where recursively searching a share could show duplicate assets
+* Fixed an issue where Cosmo events were triggered with an incorrect payload
+* Removed the option to set status, tags, and comments on trashbin assets
+
+### High5
+
+**Bug fixes**
+
+* Fixed an issue where catalog descriptions were being cached
+* Fixed an issue where PATCH requests did not behave as expected
+
+### SDS
+
+**New features and enhancements**
+
+* Added an option to jump to a node from the performance tab
+
+### Agent
+
+**New features and enhancements**
+
+* Added support for registering custom modules in the agent tray icon
+
+**Bug fixes**
+
+* Fixed an issue where the agent could generate multiple lock files<br>
+
 ## 24-11-2025
 
 ### Wave Engine
