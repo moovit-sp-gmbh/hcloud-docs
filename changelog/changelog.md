@@ -1,5 +1,42 @@
 # 🎉 Changelog
 
+## 02-03-2026
+
+### Cosmo
+
+**New features and enhancements**
+
+* Added support for copying asset and copying asset with history.
+* Added logic to the frontend to react to change of password, expiration date or access rights in the share
+* Added option to edit a shares permissions.
+* Added full support for mentioning teams in a comment.&#x20;
+
+**Bug fixes**
+
+* Fixed an issue where asset status and tags were not visible in trash view and copies lost all info after trash was emptied
+* Fixed an issue where the copy button in the asset copy modal was squashed by the breadcrumb navigation
+* Fixed an issue where going back while a video asset was playing threw an error
+* Fixed an issue where clearing a tag threw a 500 error
+* Fixed an issue where different shares with different passwords did not work correctly
+* Fixed an issue where reclicking the email link for a share did not work due to incorrect domain
+* Fixed an issue where users to mention list showed under other elements
+* Fixed an issue where the mentionable users list was not shown completely
+* Fixed an issue where share permissions were not propagated to external users
+* Fixed an issue where creating a share with multiple assets created multiple listings in shares view
+* Fixed an issue where the list view did not show upload progress
+* Fixed an issue where Cosmo permissions at team level did not apply to sub-users
+* Fixed an issue where the library deleted on S3 was not handled properly
+* Fixed an issue where the copy asset was missing the nats update
+* Fixed an issue where the mentionedTeams array was not populated when mentioning teams in a comment
+* Fixed an issue where users were not redirected to the appropriate page on error when sharing
+
+### High5
+
+**Bug fixes**
+
+* Fixed an issue where High5 could not resolve execution status if it is a pool due to type mismatch
+* Fixed an issue where High5 was not listening for service account deletes, causing pool loading failures<br>
+
 ## 18-12-2025
 
 ### Cosmo
